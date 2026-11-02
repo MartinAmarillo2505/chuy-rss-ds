@@ -1,0 +1,9 @@
+{
+  "feed_url": "https://groups.io/g/untref-ingsoft/rss",
+  "title_regex": "\\[(chuy|tp)\\]",
+  "title_regex_case_sensitive": false,
+  "state_file": "state.json",
+  "max_sends_per_run": 15,
+  "description_limit": 4096,
+  "state_max_entries": 5000
+}
